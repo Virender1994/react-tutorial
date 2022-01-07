@@ -1,2 +1,2 @@
 # react-tutorial
-Created with CodeSandbox
+React App for shoping cart like flipkart and amazon
